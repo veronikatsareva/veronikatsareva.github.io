@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: '',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -76,11 +76,13 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://veronikatsareva.github.io/veronikatsarevaCV/cv.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
     'C++',
+    'Latex',
+    'SQL',
   ],
   experiences: [
     {
