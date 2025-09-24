@@ -28,29 +28,29 @@ const CONFIG = {
         projects: ['veronikatsareva/BalancedLanguageSampling', 'veronikatsareva/MedCorpora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-    external: {
-      header: '',
-      // To hide the `External Projects` section, keep it empty.
-      projects: [
-        {
-          title: '',
-          description:
-            '',
-          imageUrl:
-            '',
-          link: '',
-        },
-        {
-          title: '',
-          description:
-            '',
-          imageUrl:
-            '',
-          link: '',
-        },
-      ],
-    },
-  },
+  //   external: {
+  //     header: '',
+  //     // To hide the `External Projects` section, keep it empty.
+  //     projects: [
+  //       {
+  //         title: '',
+  //         description:
+  //           '',
+  //         imageUrl:
+  //           '',
+  //         link: '',
+  //       },
+  //       {
+  //         title: '',
+  //         description:
+  //           '',
+  //         imageUrl:
+  //           '',
+  //         link: '',
+  //       },
+  //     ],
+  //   },
+  // },
   seo: { title: 'Portfolio of Veronika Tsareva', description: '', imageURL: '' },
   social: {
     linkedin: '',
