@@ -50,7 +50,7 @@ const CONFIG = {
   //       },
   //     ],
   //   },
-  // },
+  },
   seo: { title: 'Portfolio of Veronika Tsareva', description: '', imageURL: '' },
   social: {
     linkedin: '',
