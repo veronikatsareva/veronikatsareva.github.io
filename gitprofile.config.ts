@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Veronika Tsareva', description: '', imageURL: '' },
   social: {
     linkedin: '',
     x: '',
