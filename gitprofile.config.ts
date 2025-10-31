@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['veronikatsareva/BalancedLanguageSampling', 'veronikatsareva/MedCorpora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['veronikatsareva/BalancedLanguageSampling', 'Interprole/Sampling'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
   //   external: {
@@ -87,6 +87,13 @@ const CONFIG = {
   experiences: [
     {
       company: 'HSE University',
+      position: "Senior Assistant: Data Culture Courses'",
+      from: 'September 2025',
+      to: 'Present',
+      companyLink: '',
+    },
+    {
+      company: 'HSE University',
       position: 'Teaching Assistant: Linguistic Interpretation of AI Models',
       from: 'September 2025',
       to: 'Present',
@@ -124,11 +131,11 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: '',
-      conferenceName: '',
+      title: 'Poster report: Balanced Language Sampling for Multilingual Models',
+      conferenceName: 'Scientific Conference of FCS, HSE University',
       journalName: '',
       authors: '',
-      link: '',
+      link: 'https://cs.hse.ru/sci_conf2025',
       description:
         '',
     },
